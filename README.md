@@ -7,7 +7,7 @@ Achieved ~90% accuracy on test data.
 ---
 
 ## 📂 Project Structure
-- `app.py` → Streamlit app
+- `main.py` → Streamlit app
 - `model.pkl` → Trained Logistic Regression model
 - `requirements.txt` → Required Python libraries
 - `README.md` → Project documentation
